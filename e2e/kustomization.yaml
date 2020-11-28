@@ -6,3 +6,4 @@ images:
   newTag: 28401b368f612bd2bbaefe9cc77d876d9afbb669
 resources:
 - ./deployment.yaml
+- ./service.yaml
