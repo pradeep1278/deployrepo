@@ -3,7 +3,7 @@ kind: Kustomization
 
 images:
 - name: 10.101.209.206:8761/dockertest
-  newTag: ec8f7b1ef9fdd1c9060821c3159205e2ccfee307
+  newTag: 2b8515e975e8cb1cf1aa1ae0867f12aefcaad5dd
 resources:
 - ./deployment.yaml
 - ./service.yaml
